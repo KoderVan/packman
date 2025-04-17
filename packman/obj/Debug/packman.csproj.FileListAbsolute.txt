@@ -1,0 +1,7 @@
+C:\Users\vancr\Desktop\DotNet\packman\packman\bin\Debug\packman.exe.config
+C:\Users\vancr\Desktop\DotNet\packman\packman\bin\Debug\packman.exe
+C:\Users\vancr\Desktop\DotNet\packman\packman\bin\Debug\packman.pdb
+C:\Users\vancr\Desktop\DotNet\packman\packman\obj\Debug\packman.csproj.AssemblyReference.cache
+C:\Users\vancr\Desktop\DotNet\packman\packman\obj\Debug\packman.csproj.CoreCompileInputs.cache
+C:\Users\vancr\Desktop\DotNet\packman\packman\obj\Debug\packman.exe
+C:\Users\vancr\Desktop\DotNet\packman\packman\obj\Debug\packman.pdb
