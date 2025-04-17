@@ -27,7 +27,7 @@ namespace packman
                     pressedKey = Console.ReadKey();
                 }
             });
-
+            // комментарий
             while (true)
             {
                 Console.Clear();
