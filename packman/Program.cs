@@ -27,7 +27,6 @@ namespace packman
                     pressedKey = Console.ReadKey();
                 }
             });
-            // комментарий
             while (true)
             {
                 Console.Clear();
@@ -51,7 +50,11 @@ namespace packman
             }
 
         }
-
+        // Добавлен код для новой ветки
+        //
+        //
+        //
+        // И ещё немного кода
         private static void HandleInput(ConsoleKeyInfo pressedKey, ref int pacmanX, ref int pacmanY, char[,] map, ref int score)
         {
             int [] direction = GetDirection(pressedKey);
